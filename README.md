@@ -556,12 +556,6 @@ This notebook shows that:
 3. Generate the synthetic 3D data.
 4. Standardize the features.
 5. Apply PCA, t-SNE, and UMAP.
-6. Save the resulting images as:
-
-- `3D.png`
-- `2D-tSNE.png`
-- `2D-UMAP.png`
-- `2D-PCA.png`
 
 ---
 
