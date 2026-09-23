@@ -10,7 +10,6 @@ The goal is to visualize how different methods represent the same 3D clustered s
 
 ---
 
-## Original Notebook Markdown
 
 ### Dimensionality reduction algorithms, tSNE and UMAP, on synthetic data
 
